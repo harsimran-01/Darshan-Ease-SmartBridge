@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">🌸 Darshan Ease</h1>
-<video src="smartbridge Project demo.mp4"></video>
+https://drive.google.com/file/d/1ShU6nztn2-Rr638zzK0447xA3ytdoiOC/view?usp=sharing
 
 <h3 align="center">
 Smart Digital Darshan & Queue Management System
