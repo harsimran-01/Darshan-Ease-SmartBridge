@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4F46E5&height=200&section=header&text=RetailPulse&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Smart%20Retail%20Optimization%20System&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F59E0B&height=200&section=header&text=RetailPulse&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Smart%20Retail%20Optimization%20System&descAlignY=72&descSize=18" />
 </p>
 
 <h3 align="center">
