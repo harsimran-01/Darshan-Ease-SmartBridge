@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F59E0B&height=220&section=header&text=Darshan%20Ease&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Smart%20Digital%20Darshan%20%26%20Queue%20Management%20System&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=220&section=header&text=Darshan%20Ease&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Smart%20Digital%20Darshan%20%26%20Queue%20Management%20System&descAlignY=72&descSize=18" />
 </p>
 
 <h3 align="center">
