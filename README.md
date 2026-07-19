@@ -1,7 +1,8 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">🌸 Darshan Ease</h1>
-https://drive.google.com/file/d/1ShU6nztn2-Rr638zzK0447xA3ytdoiOC/view?usp=sharing
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F59E0B&height=220&section=header&text=Darshan%20Ease&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Smart%20Digital%20Darshan%20%26%20Queue%20Management%20System&descAlignY=72&descSize=18" />
+</p>
 
 <h3 align="center">
 Smart Digital Darshan & Queue Management System
@@ -9,6 +10,12 @@ Smart Digital Darshan & Queue Management System
 
 <p align="center">
 🚀 Transforming Temple Visits with Technology • Smart Scheduling • Digital Experience
+</p>
+
+<p align="center">
+  <a href="https://darshan-ease-smart-bridge.vercel.app/deployed">
+    <strong>🌐 Open Darshan Ease Live Demo →</strong>
+  </a>
 </p>
 
 <p align="center">
