@@ -13,7 +13,7 @@ Smart Digital Darshan & Queue Management System
 </p>
 
 <p align="center">
-  <a href="https://darshan-ease-smart-bridge.vercel.app/deployed">
+  <a href="https://darshan-ease-smart-bridge.vercel.app/">
     <strong>🌐 Open Darshan Ease Live Demo →</strong>
   </a>
 </p>
